@@ -2,3 +2,4 @@ bus_booking.db
 __pycache__/
 *.pyc
 .venv/
+static/.webassets-cache
